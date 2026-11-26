@@ -1,0 +1,48 @@
+[project]
+name = "hydrolocator"
+version = "0.1.0"
+description = "Match ship passages heard on a hydrophone against AIS tracks"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.13"
+keywords = ["hydrophone", "underwater acoustics", "AIS", "ship noise", "passive acoustics"]
+dependencies = [
+    "duckdb>=2.0.1",
+    "fastapi>=0.165.0",
+    "h3>=4.5.1",
+    "httpx>=0.28.1",
+    "netcdf4>=1.7.5.1.post1",
+    "numpy>=2.5.5",
+    "pyarrow>=26.0.1",
+    "python-multipart>=0.0.34",
+    "rich>=15.0.0",
+    "scipy>=1.18.1",
+    "soundfile>=0.14.0",
+    "typer>=0.29.2",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[project.scripts]
+hydrolocator = "hydrolocator.cli:app"
+
+[build-system]
+requires = ["uv_build>=0.12.18,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "matplotlib>=3.11.2",
+    "pytest>=9.2.0",
+    "ruff>=0.17.6",
+]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
+ignore = ["E741", "B008", "B905", "B007", "E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

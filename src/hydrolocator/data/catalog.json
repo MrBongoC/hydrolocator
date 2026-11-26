@@ -1,0 +1,1551 @@
+[
+ {
+  "id": "sanctsound:ci01",
+  "name": "Channel Islands CI01",
+  "network": "NOAA SanctSound",
+  "lat": 34.0438,
+  "lon": -120.0811,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1541023200.0,
+    "end": 1550653209.0,
+    "lat": 34.0438,
+    "lon": -120.0811,
+    "label": "01"
+   },
+   {
+    "start": 1553554800.0,
+    "end": 1564884000.0,
+    "lat": 34.0438,
+    "lon": -120.08105,
+    "label": "02"
+   },
+   {
+    "start": 1565740800.0,
+    "end": 1570525200.0,
+    "lat": 34.04383,
+    "lon": -120.081,
+    "label": "03"
+   },
+   {
+    "start": 1579849200.0,
+    "end": 1591300800.0,
+    "lat": 34.04363,
+    "lon": -120.08073,
+    "label": "04"
+   },
+   {
+    "start": 1591311600.0,
+    "end": 1602370800.0,
+    "lat": 34.0463,
+    "lon": -120.08073,
+    "label": "05"
+   },
+   {
+    "start": 1603382400.0,
+    "end": 1614078000.0,
+    "lat": 34.0438,
+    "lon": -120.081,
+    "label": "06"
+   },
+   {
+    "start": 1614985200.0,
+    "end": 1625151600.0,
+    "lat": 34.04358,
+    "lon": -120.06702,
+    "label": "07"
+   },
+   {
+    "start": 1625770800.0,
+    "end": 1631318400.0,
+    "lat": 34.0436,
+    "lon": -120.0803,
+    "label": "08"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:ci02",
+  "name": "Channel Islands CI02",
+  "network": "NOAA SanctSound",
+  "lat": 34.0856,
+  "lon": -120.5232,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1541016000.0,
+    "end": 1547391600.0,
+    "lat": 34.0856,
+    "lon": -120.5232,
+    "label": "01"
+   },
+   {
+    "start": 1553540400.0,
+    "end": 1563872400.0,
+    "lat": 34.0854,
+    "lon": -120.5233,
+    "label": "02"
+   },
+   {
+    "start": 1580936400.0,
+    "end": 1591282800.0,
+    "lat": 34.08532,
+    "lon": -120.523,
+    "label": "04"
+   },
+   {
+    "start": 1591293600.0,
+    "end": 1603382400.0,
+    "lat": 34.0853,
+    "lon": -120.5223,
+    "label": "05"
+   },
+   {
+    "start": 1603401600.0,
+    "end": 1614726000.0,
+    "lat": 34.08523,
+    "lon": -120.0957,
+    "label": "06"
+   },
+   {
+    "start": 1624071600.0,
+    "end": 1636603200.0,
+    "lat": 34.0855,
+    "lon": -120.5224,
+    "label": "07"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:ci03",
+  "name": "Channel Islands CI03",
+  "network": "NOAA SanctSound",
+  "lat": 33.48687,
+  "lon": -119.01609,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1571101200.0,
+    "end": 1582153200.0,
+    "lat": 33.48687,
+    "lon": -119.01609,
+    "label": "02"
+   },
+   {
+    "start": 1584493200.0,
+    "end": 1595354400.0,
+    "lat": 33.48687,
+    "lon": -119.01609,
+    "label": "03"
+   },
+   {
+    "start": 1596459600.0,
+    "end": 1604397600.0,
+    "lat": 33.48675,
+    "lon": -119.01607,
+    "label": "04"
+   },
+   {
+    "start": 1604455200.0,
+    "end": 1615478400.0,
+    "lat": 33.48675,
+    "lon": -119.01607,
+    "label": "05"
+   },
+   {
+    "start": 1620676800.0,
+    "end": 1629169200.0,
+    "lat": 33.4868,
+    "lon": -119.016,
+    "label": "06"
+   },
+   {
+    "start": 1631764800.0,
+    "end": 1642590000.0,
+    "lat": 33.4868,
+    "lon": -119.0159,
+    "label": "07"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:ci04",
+  "name": "Channel Islands CI04",
+  "network": "NOAA SanctSound",
+  "lat": 33.849,
+  "lon": -120.118,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1541102400.0,
+    "end": 1546250400.0,
+    "lat": 33.849,
+    "lon": -120.118,
+    "label": "01"
+   },
+   {
+    "start": 1553626800.0,
+    "end": 1565308800.0,
+    "lat": 33.8489,
+    "lon": -120.1175,
+    "label": "02"
+   },
+   {
+    "start": 1565730000.0,
+    "end": 1574362800.0,
+    "lat": 33.84888,
+    "lon": -120.117,
+    "label": "03"
+   },
+   {
+    "start": 1580504400.0,
+    "end": 1590181200.0,
+    "lat": 33.84888,
+    "lon": -120.117,
+    "label": "04"
+   },
+   {
+    "start": 1591300800.0,
+    "end": 1603350000.0,
+    "lat": 33.8489,
+    "lon": -120.1171,
+    "label": "05"
+   },
+   {
+    "start": 1603443600.0,
+    "end": 1614729600.0,
+    "lat": 33.8489,
+    "lon": -120.1174,
+    "label": "06"
+   },
+   {
+    "start": 1615006800.0,
+    "end": 1627664400.0,
+    "lat": 33.84853,
+    "lon": -120.1161,
+    "label": "07"
+   },
+   {
+    "start": 1627675200.0,
+    "end": 1636891200.0,
+    "lat": 33.8485,
+    "lon": -120.1159,
+    "label": "08"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:ci05",
+  "name": "Channel Islands CI05",
+  "network": "NOAA SanctSound",
+  "lat": 34.0178,
+  "lon": -119.3172,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1541091600.0,
+    "end": 1549252800.0,
+    "lat": 34.0178,
+    "lon": -119.3172,
+    "label": "01"
+   },
+   {
+    "start": 1553634000.0,
+    "end": 1564131609.0,
+    "lat": 34.0178,
+    "lon": -119.3172,
+    "label": "02"
+   },
+   {
+    "start": 1565809200.0,
+    "end": 1570798800.0,
+    "lat": 34.0178,
+    "lon": -119.317,
+    "label": "03"
+   },
+   {
+    "start": 1576908000.0,
+    "end": 1588874400.0,
+    "lat": 34.0178,
+    "lon": -119.317,
+    "label": "04"
+   },
+   {
+    "start": 1588899600.0,
+    "end": 1589598000.0,
+    "lat": 34.01785,
+    "lon": -119.3171,
+    "label": "05"
+   },
+   {
+    "start": 1602723600.0,
+    "end": 1613059200.0,
+    "lat": 34.0178,
+    "lon": -119.3171,
+    "label": "06"
+   },
+   {
+    "start": 1625698800.0,
+    "end": 1636711200.0,
+    "lat": 34.018,
+    "lon": -119.3168,
+    "label": "08"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:fk01",
+  "name": "Florida Keys FK01",
+  "network": "NOAA SanctSound",
+  "lat": 24.43313,
+  "lon": -81.93068,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1545159600.0,
+    "end": 1555696800.0,
+    "lat": 24.43313,
+    "lon": -81.93068,
+    "label": "01"
+   },
+   {
+    "start": 1582224076.0,
+    "end": 1591982400.0,
+    "lat": 24.43313,
+    "lon": -81.93068,
+    "label": "04"
+   },
+   {
+    "start": 1604080800.0,
+    "end": 1612583095.0,
+    "lat": 24.43313,
+    "lon": -81.93068,
+    "label": "06"
+   },
+   {
+    "start": 1615983316.0,
+    "end": 1619379900.0,
+    "lat": 24.43313,
+    "lon": -81.93068,
+    "label": "07"
+   },
+   {
+    "start": 33176362500.0,
+    "end": 1628907626.0,
+    "lat": 24.43313,
+    "lon": -81.93068,
+    "label": "08"
+   },
+   {
+    "start": 1629212400.0,
+    "end": 1631934000.0,
+    "lat": 24.43313,
+    "lon": -81.93068,
+    "label": "09"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:fk02",
+  "name": "Florida Keys FK02",
+  "network": "NOAA SanctSound",
+  "lat": 24.4888,
+  "lon": -81.666316,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1545145200.0,
+    "end": 1555833600.0,
+    "lat": 24.4888,
+    "lon": -81.666316,
+    "label": "01"
+   },
+   {
+    "start": 1572288720.0,
+    "end": 1582122240.0,
+    "lat": 24.4888,
+    "lon": -81.666316,
+    "label": "03"
+   },
+   {
+    "start": 1582137203.0,
+    "end": 1588602451.0,
+    "lat": 24.4888,
+    "lon": -81.666316,
+    "label": "04"
+   },
+   {
+    "start": 1594749600.0,
+    "end": 1603047813.0,
+    "lat": 24.48896,
+    "lon": -81.6664,
+    "label": "05"
+   },
+   {
+    "start": 1610733600.0,
+    "end": 1621059316.0,
+    "lat": 24.48896,
+    "lon": -81.6664,
+    "label": "06"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:fk03",
+  "name": "Florida Keys FK03",
+  "network": "NOAA SanctSound",
+  "lat": 24.45895,
+  "lon": -81.774133,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1545152400.0,
+    "end": 1556074800.0,
+    "lat": 24.45895,
+    "lon": -81.774133,
+    "label": "01"
+   },
+   {
+    "start": 1571353200.0,
+    "end": 1571670000.0,
+    "lat": 24.45895,
+    "lon": -81.774133,
+    "label": "03"
+   },
+   {
+    "start": 1589490608.0,
+    "end": 1591871019.0,
+    "lat": 24.45895,
+    "lon": -81.774133,
+    "label": "04"
+   },
+   {
+    "start": 1593624600.0,
+    "end": 1596488400.0,
+    "lat": 24.45895,
+    "lon": -81.774133,
+    "label": "05"
+   },
+   {
+    "start": 1627138800.0,
+    "end": 1629814560.0,
+    "lat": 24.45895,
+    "lon": -81.774133,
+    "label": "08"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:fk04",
+  "name": "Florida Keys FK04",
+  "network": "NOAA SanctSound",
+  "lat": 24.623748,
+  "lon": -81.10854,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1616512500.0,
+    "end": 1620750600.0,
+    "lat": 24.623748,
+    "lon": -81.10854,
+    "label": "08"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:gr01",
+  "name": "Gray's Reef GR01",
+  "network": "NOAA SanctSound",
+  "lat": 31.396417,
+  "lon": -80.8904,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1544734800.0,
+    "end": 1556704800.0,
+    "lat": 31.396417,
+    "lon": -80.8904,
+    "label": "01"
+   },
+   {
+    "start": 1556730000.0,
+    "end": 1569002400.0,
+    "lat": 31.396417,
+    "lon": -80.8904,
+    "label": "02"
+   },
+   {
+    "start": 1569772800.0,
+    "end": 1578888000.0,
+    "lat": 31.396417,
+    "lon": -80.8904,
+    "label": "03"
+   },
+   {
+    "start": 1580317200.0,
+    "end": 1590016745.0,
+    "lat": 31.396417,
+    "lon": -80.8904,
+    "label": "04"
+   },
+   {
+    "start": 1601251200.0,
+    "end": 1613289636.0,
+    "lat": 31.396417,
+    "lon": -80.8904,
+    "label": "05"
+   },
+   {
+    "start": 1618775100.0,
+    "end": 1628810855.0,
+    "lat": 31.396417,
+    "lon": -80.8904,
+    "label": "06"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:gr02",
+  "name": "Gray's Reef GR02",
+  "network": "NOAA SanctSound",
+  "lat": 31.376133,
+  "lon": -80.839133,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1557766800.0,
+    "end": 1569225600.0,
+    "lat": 31.376133,
+    "lon": -80.839133,
+    "label": "02"
+   },
+   {
+    "start": 1569700800.0,
+    "end": 1580464800.0,
+    "lat": 31.376133,
+    "lon": -80.839133,
+    "label": "03"
+   },
+   {
+    "start": 1601244000.0,
+    "end": 1613218292.0,
+    "lat": 31.376133,
+    "lon": -80.839133,
+    "label": "05"
+   },
+   {
+    "start": 1618768800.0,
+    "end": 1630098050.0,
+    "lat": 31.376133,
+    "lon": -80.839133,
+    "label": "06"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:gr03",
+  "name": "Gray's Reef GR03",
+  "network": "NOAA SanctSound",
+  "lat": 31.36749,
+  "lon": -80.895,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1556755200.0,
+    "end": 1568019600.0,
+    "lat": 31.36749,
+    "lon": -80.895,
+    "label": "02"
+   },
+   {
+    "start": 1571338800.0,
+    "end": 1575327600.0,
+    "lat": 31.367517,
+    "lon": -80.8949,
+    "label": "03"
+   },
+   {
+    "start": 1575651600.0,
+    "end": 1587768673.0,
+    "lat": 31.367517,
+    "lon": -80.8949,
+    "label": "04"
+   },
+   {
+    "start": 1601247600.0,
+    "end": 1611275380.0,
+    "lat": 31.367517,
+    "lon": -80.8949,
+    "label": "05"
+   },
+   {
+    "start": 1618765200.0,
+    "end": 1630002428.0,
+    "lat": 31.367517,
+    "lon": -80.8949,
+    "label": "06"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:hi01",
+  "name": "Hawaiian Islands HI01",
+  "network": "NOAA SanctSound",
+  "lat": 20.807567,
+  "lon": -156.65615,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1543536000.0,
+    "end": 1554044400.0,
+    "lat": 20.807567,
+    "lon": -156.65615,
+    "label": "01"
+   },
+   {
+    "start": 1575162000.0,
+    "end": 1586646000.0,
+    "lat": 20.80734,
+    "lon": -156.65543,
+    "label": "02"
+   },
+   {
+    "start": 1606744800.0,
+    "end": 1610996400.0,
+    "lat": 20.806983,
+    "lon": -156.654733,
+    "label": "03"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:hi03",
+  "name": "Hawaiian Islands HI03",
+  "network": "NOAA SanctSound",
+  "lat": 21.2852,
+  "lon": -157.599983,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1545080400.0,
+    "end": 1547906400.0,
+    "lat": 21.2852,
+    "lon": -157.599983,
+    "label": "01"
+   },
+   {
+    "start": 1575158400.0,
+    "end": 1591138800.0,
+    "lat": 21.28542,
+    "lon": -157.60012,
+    "label": "02"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:hi04",
+  "name": "Hawaiian Islands HI04",
+  "network": "NOAA SanctSound",
+  "lat": 22.263528,
+  "lon": -159.586528,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1543179600.0,
+    "end": 1549062000.0,
+    "lat": 22.263528,
+    "lon": -159.586528,
+    "label": "01"
+   },
+   {
+    "start": 1575162000.0,
+    "end": 1589230800.0,
+    "lat": 22.263472,
+    "lon": -159.586389,
+    "label": "02"
+   },
+   {
+    "start": 1606784400.0,
+    "end": 1623538800.0,
+    "lat": 22.263472,
+    "lon": -159.586389,
+    "label": "03"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:hi05",
+  "name": "Hawaiian Islands HI05",
+  "network": "NOAA SanctSound",
+  "lat": 20.987183,
+  "lon": -157.58785,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1545177600.0,
+    "end": 1546822800.0,
+    "lat": 20.987183,
+    "lon": -157.58785,
+    "label": "01"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:hi06",
+  "name": "Hawaiian Islands HI06",
+  "network": "NOAA SanctSound",
+  "lat": 19.95072,
+  "lon": -155.9005,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1575162000.0,
+    "end": 1593619200.0,
+    "lat": 19.95072,
+    "lon": -155.9005,
+    "label": "01"
+   },
+   {
+    "start": 1606698000.0,
+    "end": 1620855000.0,
+    "lat": 19.95072,
+    "lon": -155.9005,
+    "label": "02"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:mb01",
+  "name": "Monterey Bay MB01",
+  "network": "NOAA SanctSound",
+  "lat": 36.798,
+  "lon": -121.976,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1542301200.0,
+    "end": 1553774400.0,
+    "lat": 36.798,
+    "lon": -121.976,
+    "label": "01"
+   },
+   {
+    "start": 1554742800.0,
+    "end": 1565802000.0,
+    "lat": 36.798,
+    "lon": -121.976,
+    "label": "02"
+   },
+   {
+    "start": 1566504000.0,
+    "end": 1576864800.0,
+    "lat": 36.798,
+    "lon": -121.976,
+    "label": "03"
+   },
+   {
+    "start": 1576886400.0,
+    "end": 1586448000.0,
+    "lat": 36.798,
+    "lon": -121.976,
+    "label": "04"
+   },
+   {
+    "start": 1587142800.0,
+    "end": 1598018400.0,
+    "lat": 36.7977,
+    "lon": -121.9757,
+    "label": "05"
+   },
+   {
+    "start": 1598036400.0,
+    "end": 1607702400.0,
+    "lat": 36.7977,
+    "lon": -121.9757,
+    "label": "06"
+   },
+   {
+    "start": 1607716800.0,
+    "end": 1619197200.0,
+    "lat": 36.81467,
+    "lon": -121.97593,
+    "label": "07"
+   },
+   {
+    "start": 1619208000.0,
+    "end": 1623189609.0,
+    "lat": 36.798,
+    "lon": -121.97607,
+    "label": "08"
+   },
+   {
+    "start": 1628712000.0,
+    "end": 1637485200.0,
+    "lat": 36.798,
+    "lon": -122.9758,
+    "label": "09"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:mb02",
+  "name": "Monterey Bay MB02",
+  "network": "NOAA SanctSound",
+  "lat": 36.648,
+  "lon": -121.9084,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1542312000.0,
+    "end": 1554631200.0,
+    "lat": 36.648,
+    "lon": -121.9084,
+    "label": "01"
+   },
+   {
+    "start": 1554753600.0,
+    "end": 1565485200.0,
+    "lat": 36.6495,
+    "lon": -121.9084,
+    "label": "02"
+   },
+   {
+    "start": 1566522000.0,
+    "end": 1576868400.0,
+    "lat": 36.6495,
+    "lon": -121.9084,
+    "label": "03"
+   },
+   {
+    "start": 1576886400.0,
+    "end": 1584918000.0,
+    "lat": 36.6495,
+    "lon": -121.9084,
+    "label": "04"
+   },
+   {
+    "start": 1587142800.0,
+    "end": 1598040000.0,
+    "lat": 36.6484,
+    "lon": -121.9075,
+    "label": "05"
+   },
+   {
+    "start": 1607727600.0,
+    "end": 1619190000.0,
+    "lat": 36.64798,
+    "lon": -121.90792,
+    "label": "07"
+   },
+   {
+    "start": 1619200800.0,
+    "end": 1628708400.0,
+    "lat": 36.6482,
+    "lon": -121.90682,
+    "label": "08"
+   },
+   {
+    "start": 1628719200.0,
+    "end": 1640656800.0,
+    "lat": 36.6482,
+    "lon": -122.90687,
+    "label": "09"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:mb03",
+  "name": "Monterey Bay MB03",
+  "network": "NOAA SanctSound",
+  "lat": 36.3703,
+  "lon": -122.3148,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1542312009.0,
+    "end": 1560186000.0,
+    "lat": 36.3703,
+    "lon": -122.3148,
+    "label": "01"
+   },
+   {
+    "start": 1560211200.0,
+    "end": 1579986000.0,
+    "lat": 36.37021,
+    "lon": -122.314903,
+    "label": "02"
+   },
+   {
+    "start": 1586563200.0,
+    "end": 1600653600.0,
+    "lat": 36.37021,
+    "lon": -122.314903,
+    "label": "03"
+   },
+   {
+    "start": 1601596800.0,
+    "end": 1622566800.0,
+    "lat": 36.37021,
+    "lon": -122.314903,
+    "label": "04"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:oc01",
+  "name": "Olympic Coast OC01",
+  "network": "NOAA SanctSound",
+  "lat": 48.3938,
+  "lon": -124.654,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1552071600.0,
+    "end": 1562612400.0,
+    "lat": 48.3938,
+    "lon": -124.654,
+    "label": "01"
+   },
+   {
+    "start": 1572721200.0,
+    "end": 1586548800.0,
+    "lat": 48.3938,
+    "lon": -124.62067,
+    "label": "03"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:oc02",
+  "name": "Olympic Coast OC02",
+  "network": "NOAA SanctSound",
+  "lat": 48.4904,
+  "lon": -125.0038,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1552075200.0,
+    "end": 1556064000.0,
+    "lat": 48.4904,
+    "lon": -125.0038,
+    "label": "01"
+   },
+   {
+    "start": 1562878800.0,
+    "end": 1572458400.0,
+    "lat": 48.4905,
+    "lon": -125.0039,
+    "label": "02"
+   },
+   {
+    "start": 1594671480.0,
+    "end": 1601510409.0,
+    "lat": 48.4903,
+    "lon": -125.0037,
+    "label": "04"
+   },
+   {
+    "start": 1623263940.0,
+    "end": 1635293340.0,
+    "lat": 48.49045,
+    "lon": -124.0035,
+    "label": "05"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:oc03",
+  "name": "Olympic Coast OC03",
+  "network": "NOAA SanctSound",
+  "lat": 47.3179,
+  "lon": -124.4166,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1572649200.0,
+    "end": 1583485200.0,
+    "lat": 47.3179,
+    "lon": -124.4166,
+    "label": "02"
+   },
+   {
+    "start": 1596395280.0,
+    "end": 1604185200.0,
+    "lat": 47.3179,
+    "lon": -124.4166,
+    "label": "03"
+   },
+   {
+    "start": 1622934000.0,
+    "end": 1634169600.0,
+    "lat": 47.3175,
+    "lon": -124.4146,
+    "label": "04"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:oc04",
+  "name": "Olympic Coast OC04",
+  "network": "NOAA SanctSound",
+  "lat": 48.0378,
+  "lon": -124.7285,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1566334800.0,
+    "end": 1567663200.0,
+    "lat": 48.0378,
+    "lon": -124.7285,
+    "label": "02"
+   },
+   {
+    "start": 1596559380.0,
+    "end": 1608537609.0,
+    "lat": 48.0378,
+    "lon": -124.72845,
+    "label": "04"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:pm01",
+  "name": "Papahanaumokuakea PM01",
+  "network": "NOAA SanctSound",
+  "lat": 22.661516,
+  "lon": -161.04086,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1585652400.0,
+    "end": 1591358400.0,
+    "lat": 22.661516,
+    "lon": -161.04086,
+    "label": "01"
+   },
+   {
+    "start": 1601510400.0,
+    "end": 1625846400.0,
+    "lat": 22.662033,
+    "lon": -161.042183,
+    "label": "02"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:pm02",
+  "name": "Papahanaumokuakea PM02",
+  "network": "NOAA SanctSound",
+  "lat": 23.75715,
+  "lon": -166.3385,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1569891600.0,
+    "end": 1591014158.0,
+    "lat": 23.75715,
+    "lon": -166.3385,
+    "label": "01"
+   },
+   {
+    "start": 1601510400.0,
+    "end": 1625954400.0,
+    "lat": 23.758583,
+    "lon": -166.334383,
+    "label": "02"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:pm05",
+  "name": "Papahanaumokuakea PM05",
+  "network": "NOAA SanctSound",
+  "lat": 24.81682,
+  "lon": -168.13411,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1569888000.0,
+    "end": 1592035478.0,
+    "lat": 24.81682,
+    "lon": -168.13411,
+    "label": "01"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:pm08",
+  "name": "Papahanaumokuakea PM08",
+  "network": "NOAA SanctSound",
+  "lat": 27.716667,
+  "lon": -175.55,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1539565200.0,
+    "end": 1560153600.0,
+    "lat": 27.716667,
+    "lon": -175.55,
+    "label": "12"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:sb01",
+  "name": "Stellwagen Bank SB01",
+  "network": "NOAA SanctSound",
+  "lat": 42.436838,
+  "lon": -70.546958,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1542049200.0,
+    "end": 1548691200.0,
+    "lat": 42.436838,
+    "lon": -70.546958,
+    "label": "01"
+   },
+   {
+    "start": 1548698400.0,
+    "end": 1554206400.0,
+    "lat": 42.43668,
+    "lon": -70.546655,
+    "label": "02"
+   },
+   {
+    "start": 1554868800.0,
+    "end": 1559401200.0,
+    "lat": 42.4371,
+    "lon": -70.5467833,
+    "label": "03"
+   },
+   {
+    "start": 1559412000.0,
+    "end": 1564761600.0,
+    "lat": 42.436795,
+    "lon": -70.5464317,
+    "label": "04"
+   },
+   {
+    "start": 1564772400.0,
+    "end": 1570284000.0,
+    "lat": 42.436785,
+    "lon": -70.546435,
+    "label": "05"
+   },
+   {
+    "start": 1570291200.0,
+    "end": 1575642600.0,
+    "lat": 42.4369067,
+    "lon": -70.5460133,
+    "label": "06"
+   },
+   {
+    "start": 1575648000.0,
+    "end": 1580479200.0,
+    "lat": 42.4369383,
+    "lon": -70.54587,
+    "label": "07"
+   },
+   {
+    "start": 1580482800.0,
+    "end": 1586284920.0,
+    "lat": 42.4369267,
+    "lon": -70.5458567,
+    "label": "08"
+   },
+   {
+    "start": 1586293200.0,
+    "end": 1591984800.0,
+    "lat": 42.437243,
+    "lon": -70.54595,
+    "label": "09"
+   },
+   {
+    "start": 1591990200.0,
+    "end": 1597424400.0,
+    "lat": 42.437455,
+    "lon": -70.545987,
+    "label": "10"
+   },
+   {
+    "start": 1597428000.0,
+    "end": 1600362584.0,
+    "lat": 42.437835,
+    "lon": -70.54602,
+    "label": "11"
+   },
+   {
+    "start": 1600367400.0,
+    "end": 1606068000.0,
+    "lat": 42.437805,
+    "lon": -70.546112,
+    "label": "12"
+   },
+   {
+    "start": 1606070100.0,
+    "end": 1611684900.0,
+    "lat": 42.438228,
+    "lon": -70.54546,
+    "label": "13"
+   },
+   {
+    "start": 1611691200.0,
+    "end": 1616350800.0,
+    "lat": 42.438323,
+    "lon": -70.54551,
+    "label": "14"
+   },
+   {
+    "start": 1616354100.0,
+    "end": 1622120400.0,
+    "lat": 42.438427,
+    "lon": -70.54542,
+    "label": "15"
+   },
+   {
+    "start": 1622124900.0,
+    "end": 1627405200.0,
+    "lat": 42.43835,
+    "lon": -70.54556,
+    "label": "16"
+   },
+   {
+    "start": 1627408800.0,
+    "end": 1632590400.0,
+    "lat": 42.4383,
+    "lon": -70.545683,
+    "label": "17"
+   },
+   {
+    "start": 1632594600.0,
+    "end": 1639586700.0,
+    "lat": 42.43843,
+    "lon": -70.54583,
+    "label": "18"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:sb02",
+  "name": "Stellwagen Bank SB02",
+  "network": "NOAA SanctSound",
+  "lat": 42.470793,
+  "lon": -70.24294,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1542045600.0,
+    "end": 1548694800.0,
+    "lat": 42.470793,
+    "lon": -70.24294,
+    "label": "01"
+   },
+   {
+    "start": 1548705600.0,
+    "end": 1554213600.0,
+    "lat": 42.4708417,
+    "lon": -70.24281,
+    "label": "02"
+   },
+   {
+    "start": 1554224400.0,
+    "end": 1559394000.0,
+    "lat": 42.4713583,
+    "lon": -70.2427633,
+    "label": "03"
+   },
+   {
+    "start": 1559404800.0,
+    "end": 1564758000.0,
+    "lat": 42.4708617,
+    "lon": -70.2424117,
+    "label": "04"
+   },
+   {
+    "start": 1564768800.0,
+    "end": 1570291200.0,
+    "lat": 42.4708733,
+    "lon": -70.2423833,
+    "label": "05"
+   },
+   {
+    "start": 1570298400.0,
+    "end": 1575648000.0,
+    "lat": 42.47096,
+    "lon": -70.242305,
+    "label": "06"
+   },
+   {
+    "start": 1575651600.0,
+    "end": 1580486400.0,
+    "lat": 42.4709883,
+    "lon": -70.2423467,
+    "label": "07"
+   },
+   {
+    "start": 1580490000.0,
+    "end": 1586278320.0,
+    "lat": 42.470965,
+    "lon": -70.2426433,
+    "label": "08"
+   },
+   {
+    "start": 1586284200.0,
+    "end": 1591977600.0,
+    "lat": 42.470708,
+    "lon": -70.242457,
+    "label": "09"
+   },
+   {
+    "start": 1591983000.0,
+    "end": 1597419000.0,
+    "lat": 42.470772,
+    "lon": -70.242258,
+    "label": "10"
+   },
+   {
+    "start": 1597422000.0,
+    "end": 1600357500.0,
+    "lat": 42.47099,
+    "lon": -70.24229,
+    "label": "11"
+   },
+   {
+    "start": 1600360200.0,
+    "end": 1606062600.0,
+    "lat": 42.47083,
+    "lon": -70.242287,
+    "label": "12"
+   },
+   {
+    "start": 1606065600.0,
+    "end": 1611680400.0,
+    "lat": 42.471128,
+    "lon": -70.241957,
+    "label": "13"
+   },
+   {
+    "start": 1611684000.0,
+    "end": 1616343600.0,
+    "lat": 42.471233,
+    "lon": -70.24206,
+    "label": "14"
+   },
+   {
+    "start": 1616347200.0,
+    "end": 1622126700.0,
+    "lat": 42.471452,
+    "lon": -70.241883,
+    "label": "15"
+   },
+   {
+    "start": 1622131200.0,
+    "end": 1627399800.0,
+    "lat": 42.47147,
+    "lon": -70.24188,
+    "label": "16"
+   },
+   {
+    "start": 1627403400.0,
+    "end": 1632585600.0,
+    "lat": 42.471435,
+    "lon": -70.241828,
+    "label": "17"
+   },
+   {
+    "start": 1632589200.0,
+    "end": 1639582200.0,
+    "lat": 42.47146,
+    "lon": -70.2418,
+    "label": "18"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "sanctsound:sb03",
+  "name": "Stellwagen Bank SB03",
+  "network": "NOAA SanctSound",
+  "lat": 42.25541,
+  "lon": -70.178607,
+  "depth_m": null,
+  "deployments": [
+   {
+    "start": 1542045600.0,
+    "end": 1548176400.0,
+    "lat": 42.25541,
+    "lon": -70.178607,
+    "label": "01"
+   },
+   {
+    "start": 1548709200.0,
+    "end": 1554195600.0,
+    "lat": 42.25539,
+    "lon": -70.178843,
+    "label": "02"
+   },
+   {
+    "start": 1554217200.0,
+    "end": 1559390400.0,
+    "lat": 42.2554067,
+    "lon": -70.17901,
+    "label": "03"
+   },
+   {
+    "start": 1559397600.0,
+    "end": 1564750800.0,
+    "lat": 42.2554283,
+    "lon": -70.179015,
+    "label": "04"
+   },
+   {
+    "start": 1564761600.0,
+    "end": 1570291200.0,
+    "lat": 42.2555167,
+    "lon": -70.179065,
+    "label": "05"
+   },
+   {
+    "start": 1570302000.0,
+    "end": 1575642600.0,
+    "lat": 42.25553,
+    "lon": -70.1789733,
+    "label": "06"
+   },
+   {
+    "start": 1575658800.0,
+    "end": 1578063546.0,
+    "lat": 42.2553933,
+    "lon": -70.1794483,
+    "label": "07"
+   },
+   {
+    "start": 1580497200.0,
+    "end": 1586271000.0,
+    "lat": 42.255235,
+    "lon": -70.1796283,
+    "label": "08"
+   },
+   {
+    "start": 1586275200.0,
+    "end": 1591970400.0,
+    "lat": 42.254995,
+    "lon": -70.17908,
+    "label": "09"
+   },
+   {
+    "start": 1591977600.0,
+    "end": 1597413600.0,
+    "lat": 42.254985,
+    "lon": -70.179125,
+    "label": "10"
+   },
+   {
+    "start": 1597418400.0,
+    "end": 1600351800.0,
+    "lat": 42.25512,
+    "lon": -70.178928,
+    "label": "11"
+   },
+   {
+    "start": 1600355100.0,
+    "end": 1606058400.0,
+    "lat": 42.25508,
+    "lon": -70.179047,
+    "label": "12"
+   },
+   {
+    "start": 1606061400.0,
+    "end": 1611201600.0,
+    "lat": 42.25532,
+    "lon": -70.178937,
+    "label": "13"
+   },
+   {
+    "start": 1611677700.0,
+    "end": 1614546875.0,
+    "lat": 42.255683,
+    "lon": -70.178618,
+    "label": "14"
+   },
+   {
+    "start": 1616340600.0,
+    "end": 1622132100.0,
+    "lat": 42.25571,
+    "lon": -70.178603,
+    "label": "15"
+   },
+   {
+    "start": 1622135700.0,
+    "end": 1627394400.0,
+    "lat": 42.25571,
+    "lon": -70.1787,
+    "label": "16"
+   },
+   {
+    "start": 1627399800.0,
+    "end": 1632580200.0,
+    "lat": 42.255657,
+    "lon": -70.178618,
+    "label": "17"
+   },
+   {
+    "start": 1632585600.0,
+    "end": 1638726696.0,
+    "lat": 42.25564,
+    "lon": -70.1789,
+    "label": "18"
+   }
+  ],
+  "source": "https://www.ncei.noaa.gov/products/passive-acoustic-data"
+ },
+ {
+  "id": "mbari:mars",
+  "name": "MARS cabled observatory",
+  "network": "MBARI Pacific Sound",
+  "lat": 36.7128,
+  "lon": -122.186,
+  "depth_m": 891.0,
+  "deployments": [
+   {
+    "start": 1438041600.0,
+    "end": null,
+    "lat": 36.7128,
+    "lon": -122.186,
+    "label": "MARS"
+   }
+  ],
+  "source": "https://docs.mbari.org/pacific-sound/"
+ }
+]
